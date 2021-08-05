@@ -2,7 +2,7 @@
 
 Allows you to move your cursor and click (or hold) your Left Mouse Button using your fingers.
 
-The cursoor jumps like crazy because mediapipe's hand recognition isn't stable, so it's mre about fun than practical use. (Also it works pretty bad overall, sometimes losing your hand or becoming "blind" for some time.)
+The cursor jumps like crazy because mediapipe's hand recognition isn't stable, so it's mre about fun than practical use. (Also it works pretty bad overall, sometimes losing your hand or becoming "blind" for some time.)
 
 
 ## How to launch
