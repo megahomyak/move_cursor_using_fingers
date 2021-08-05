@@ -29,3 +29,5 @@ If it works even when fingers are far from each other, try to decrease the varia
 To change the cursor's speed, change `CURSOR_MOVEMENT_MULTIPLIER` variable.
 
 Currently this program supports one hand and this is enough, I think. By the way, mediapipe has some troubles handling two hands.
+
+It works offline btw
